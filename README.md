@@ -53,6 +53,8 @@ RegisterNumber:
 
 
 ## Timing diagram 
+![Screenshot 2023-11-27 205358](https://github.com/MangariDeeraj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149365485/10024065-b7ae-43ee-999f-a879fd035cd4)
+![Screenshot 2023-11-27 205818](https://github.com/MangariDeeraj/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149365485/6edf68f9-1748-4be9-af33-4f362923ad4e)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
